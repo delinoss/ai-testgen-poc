@@ -20,6 +20,7 @@
   "homepage": "https://github.com/delinoss/ai-testgen-poc#readme",
   "description": "",
   "devDependencies": {
+    "@playwright/test": "^1.52.0",
     "@types/node": "^22.15.30",
     "chroma-js": "^3.1.2",
     "eslint": "^9.28.0",
